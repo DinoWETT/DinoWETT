@@ -16,8 +16,12 @@
   <img src = "https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=222222&logo=JavaScript&logoColor=F7DF1E&label=" alt = "javascript" />
   <img src = "https://img.shields.io/static/v1?style=for-the-badge&message=python&color=E34F26&logo=python&logoColor=FFFFFF&label=" alt = "python" />
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
+<h3 align="left">Software 'n Tools:</h3>
+
+  <img src = "https://img.shields.io/static/v1?style=for-the-badge&message=MySQL&color=003333&logo=MySQL&logoColor=FFFFFF&label" alt = "mysql" />
+  <img src = "https://img.shields.io/static/v1?style=for-the-badge&message=PHOTOSHOP&color=737be1&logo=Adobe%20PhotoShop&logoColor=FFFFFF&label" alt = "psd" />
+  <img src = "https://img.shields.io/static/v1?style=for-the-badge&message=Sublime%20Text&color=737be1&logo=Sublime%20Text&logoColor=FFFFFF&label" alt = "stext" />
+  <img src = "https://img.shields.io/static/v1?style=for-the-badge&message=Visual%20Studio%20Code&color=737be1&logo=Visual%20Studio%20Code&logoColor=FFFFFF&label" alt = "vsc" />
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dinowett&show_icons=true&locale=en&layout=compact" alt="dinowett" /></p>
 
