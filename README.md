@@ -1,11 +1,8 @@
 <h1 align="center">Hi 👋, I'm Noddy</h1>
 <h3 align="center">A very "clumsy" person</h3>
 
-- 🌱 I’m currently learning **HTML, CSS, JS, PY and C++**
-
 - 📫 How to reach me **Golub pismonoša**
 
-- ⚡ Fun fact **Tomato is a fruit!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -14,6 +11,12 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
+
+<h2> / learning / </h2>
+
+  <img src = "https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=E34F26&logo=HTML5&logoColor=FFFFFF&label=" alt = "html" />
+  <img src = "https://img.shields.io/static/v1?style=for-the-badge&message=CSS3&color=1572B6&logo=CSS3&logoColor=FFFFFF&label=" alt = "css" />
+  <img src = "https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=222222&logo=JavaScript&logoColor=F7DF1E&label=" alt = "javascript" />
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dinowett&show_icons=true&locale=en&layout=compact" alt="dinowett" /></p>
 
