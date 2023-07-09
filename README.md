@@ -11,14 +11,17 @@
 
 <h2> [💻] Learning </h2>
 
+-
+
   <img src = "https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=E34F26&logo=HTML5&logoColor=FFFFFF&label=" alt = "html" />
   <img src = "https://img.shields.io/static/v1?style=for-the-badge&message=CSS3&color=1572B6&logo=CSS3&logoColor=FFFFFF&label=" alt = "css" />
   <img src = "https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=222222&logo=JavaScript&logoColor=F7DF1E&label=" alt = "javascript" />
   <img src = "https://img.shields.io/static/v1?style=for-the-badge&message=python&color=E34F26&logo=python&logoColor=FFFFFF&label=" alt = "python" />
 
-</br></br>
 
 <h3 align="left">Software 'n Tools:</h3>
+
+-
 
   <img src = "https://img.shields.io/static/v1?style=for-the-badge&message=MySQL&color=003333&logo=MySQL&logoColor=FFFFFF&label" alt = "mysql" />
   <img src = "https://img.shields.io/static/v1?style=for-the-badge&message=PHOTOSHOP&color=737be1&logo=Adobe%20PhotoShop&logoColor=FFFFFF&label" alt = "psd" />
