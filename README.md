@@ -16,7 +16,7 @@
   <img src = "https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=E34F26&logo=HTML5&logoColor=FFFFFF&label=" alt = "html" />
   <img src = "https://img.shields.io/static/v1?style=for-the-badge&message=CSS3&color=1572B6&logo=CSS3&logoColor=FFFFFF&label=" alt = "css" />
   <img src = "https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=222222&logo=JavaScript&logoColor=F7DF1E&label=" alt = "javascript" />
-  <img src = "https://img.shields.io/static/v1?style=for-the-badge&message=C++&color=737be1&logo=cpp&logoColor=FFFFFF&label=" alt = "csharp" />
+  <img src = "https://img.shields.io/static/v1?style=for-the-badge&message=C++&color=737be1&logo=C++&logoColor=FFFFFF&label=" alt = "csharp" />
 
 
 <h3 align="left">Software 'n Tools:</h3>
