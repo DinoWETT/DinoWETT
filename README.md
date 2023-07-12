@@ -29,7 +29,3 @@
   <img src = "https://img.shields.io/static/v1?style=for-the-badge&message=Visual%20Studio%20Code&color=737be1&logo=Visual%20Studio%20Code&logoColor=FFFFFF&label" alt = "vsc" />
 
 </br></br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dinowett&show_icons=true&locale=en&layout=compact" alt="dinowett" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dinowett&show_icons=true&locale=en" alt="dinowett" /></p>
