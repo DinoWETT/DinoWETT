@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Noddy</h1>
 <h3 align="center">A very "clumsy" person</h3>
 
-<img align="center" width="270" alt="realnaith" src="https://media.discordapp.net/attachments/1149018874763812894/1155180209180528662/IMG_20230818_172819_563.png?ex=6515aae8&is=65145968&hm=d23be863fccf57e5e363d0e3a70797e57d8f0ba8ac138f6d2206f5db82c4845d&=&width=394&height=700"/>
-
+<p align="center">
+  <img align="center" width="270" alt="realnaith" src="https://media.discordapp.net/attachments/1149018874763812894/1155180209180528662/IMG_20230818_172819_563.png?ex=6515aae8&is=65145968&hm=d23be863fccf57e5e363d0e3a70797e57d8f0ba8ac138f6d2206f5db82c4845d&=&width=394&height=700"/>
+</p>
 - [📫] How to reach me **Golub pismonoša**
 
 
