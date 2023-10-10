@@ -2,7 +2,7 @@
 <h3 align="center">A very "clumsy" person</h3>
 
 <p align="center">
-  <img align="center" width="270" alt="realnaith" src="https://i.ibb.co/SyKtwzF/68747470733a2f2f6d656469612e646973636f72646170702e6e65742f6174746163686d656e74732f313134393031383837.png=&width=394&height=700"/>
+  <img align="center" width="270" alt="realnaith" src="https://i.ibb.co/SyKtwzF/68747470733a2f2f6d656469612e646973636f72646170702e6e65742f6174746163686d656e74732f313134393031383837.png"/>
 </p>
 
 - [📫] How to reach me / by personal mailman Ferid Olsun
