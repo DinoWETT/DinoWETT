@@ -20,7 +20,7 @@
   <img src = "https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=E34F26&logo=HTML5&logoColor=FFFFFF&label=" alt = "html" />
   <img src = "https://img.shields.io/static/v1?style=for-the-badge&message=CSS3&color=1572B6&logo=CSS3&logoColor=FFFFFF&label=" alt = "css" />
   <img src = "https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=222222&logo=JavaScript&logoColor=F7DF1E&label=" alt = "javascript" />
-  <img src = "https://img.shields.io/static/v1?style=for-the-badge&message=csharp&color=DAA520&logo=csharp&logoColor=FFFFFF&label=" alt = "c# />
+  <img src = "https://img.shields.io/static/v1?style=for-the-badge&message=csharp&color=9A4993&logo=csharp&logoColor=FFFFFF&label=" alt = "c# />
 
 
 <h3 align="left">Software 'n Tools:</h3>
@@ -31,5 +31,6 @@
   <img src = "https://img.shields.io/static/v1?style=for-the-badge&message=PHOTOSHOP&color=737be1&logo=Adobe%20PhotoShop&logoColor=FFFFFF&label" alt = "psd" />
   <img src = "https://img.shields.io/static/v1?style=for-the-badge&message=Sublime%20Text&color=737be1&logo=Sublime%20Text&logoColor=FFFFFF&label" alt = "stext" />
   <img src = "https://img.shields.io/static/v1?style=for-the-badge&message=Visual%20Studio%20Code&color=737be1&logo=Visual%20Studio%20Code&logoColor=FFFFFF&label" alt = "vsc" />
+  <img src = "https://img.shields.io/static/v1?style=for-the-badge&message=XAMPP&color=DAA520&logo=xampp&logoColor=FFFFFF&label=" alt = "xampp" />
 
 </br></br>
