@@ -23,7 +23,7 @@
   <img src = "https://img.shields.io/static/v1?style=for-the-badge&message=csharp&color=9A4993&logo=csharp&logoColor=FFFFFF&label=" alt = "c# />
 
 
-<h3 align="left">Software 'n Tools:</h3>
+<h3 align="left">Software 'n Programming:</h3>
 
 -
 
@@ -32,5 +32,6 @@
   <img src = "https://img.shields.io/static/v1?style=for-the-badge&message=Sublime%20Text&color=737be1&logo=Sublime%20Text&logoColor=FFFFFF&label" alt = "stext" />
   <img src = "https://img.shields.io/static/v1?style=for-the-badge&message=Visual%20Studio%20Code&color=737be1&logo=Visual%20Studio%20Code&logoColor=FFFFFF&label" alt = "vsc" />
   <img src = "https://img.shields.io/static/v1?style=for-the-badge&message=XAMPP&color=DAA520&logo=xampp&logoColor=FFFFFF&label=" alt = "xampp" />
+  <img src = "https://img.shields.io/static/v1?style=for-the-badge&message=CPP&color=737be1&logo=cplusplus&logoColor=FFFFFF&label=" alt = "cplus"/>
 
 </br></br>
